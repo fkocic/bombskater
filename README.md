@@ -1,2 +1,2 @@
-# bombskater
-Skating with bombs
+# Bombskater
+Skating with bombs!
